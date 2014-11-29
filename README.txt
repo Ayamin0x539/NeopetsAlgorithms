@@ -139,3 +139,46 @@
  */
 
 
+OUTPUT:
+
+Ten-dubloon coin:
+If you were to buy a ten dubloon coin for 3100 and decompose it, you would get 
+Two Dubloon Coins: 2
+Five Dubloon Coins: 1
+and you would profit 1110 neopoints.
+
+Twenty-dubloon coin:
+If you were to buy a twenty dubloon coin for 6000 and decompose it, you would get 
+Two Dubloon Coins: 4
+Five Dubloon Coins: 2
+and you would profit 2420 neopoints.
+
+Fifty-dubloon coin:
+If you were to buy a fifty dubloon coin for 15100 and decompose it, you would get 
+Two Dubloon Coins: 10
+Five Dubloon Coins: 5
+and you would profit 5950 neopoints.
+
+One Hundred dubloon coin:
+If you were to buy a onehundred dubloon coin for 32000 and decompose it, you would get 
+Two Dubloon Coins: 20
+Five Dubloon Coins: 10
+and you would profit 10100 neopoints.
+
+Two Hundred dubloon coin:
+If you were to buy a twohundred dubloon coin for 100000 and decompose it, you would get 
+Two Dubloon Coins: 40
+Five Dubloon Coins: 20
+and you would profit -15800 neopoints.
+
+Five Hundred dubloon coin:
+If you were to buy a fivehundred dubloon coin for 225000 and decompose it, you would get 
+Two Dubloon Coins: 100
+Five Dubloon Coins: 50
+and you would profit -14500 neopoints.
+
+One Thousand dubloon coin:
+If you were to buy a onethousand dubloon coin for 400000 and decompose it, you would get 
+Two Dubloon Coins: 100
+Five Dubloon Coins: 50
+and you would profit -189500 neopoints.
